@@ -18,6 +18,10 @@ Dominate metrics.
 [![MIT License][license-shield]][license-url]
 [![Twitter][twitter-shield]][twitter-url]
 
+## Live Version
+
+The live version of the site is stored in the **gh-pages** branch.
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/freewarelovers/Dominatriks
